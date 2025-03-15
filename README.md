@@ -1,7 +1,4 @@
 # YoyTube-Webscraping-and-Analysis-Project
-Here's a simple README in easy English:  
-
----
 
 # 📊 YouTube Channel Data Analysis  
 
